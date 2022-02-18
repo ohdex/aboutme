@@ -9,4 +9,4 @@ a brief description of who I am!
 
 - 💞️ I’m looking to collaborate on any project at the moment. Just looking to gain experience.
 
-- 📫 You can shoot me an email at hi@dexterdasilva.com
+- 📫 You can shoot me an email at hi@dexterdasilva.com.
